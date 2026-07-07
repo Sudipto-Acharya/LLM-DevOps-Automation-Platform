@@ -3,3 +3,4 @@ boto3
 paramiko
 requests
 python-dotenv
+!.env.example
